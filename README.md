@@ -46,6 +46,10 @@ Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione
 
 ## Personas e mapa de empatia
 
+PERSONA https://github.com/YeddaMC/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/_new
+
+
+
 ## Storyboard
 
 ## UI Desing (guia de estilo)

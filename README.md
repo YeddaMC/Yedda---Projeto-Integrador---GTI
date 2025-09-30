@@ -4,7 +4,10 @@ Repositorio criado para registrar o desenvolvimento do projeto integrador
 # PROJETO-INTEGRADOR-GTI
 # ACHOU!
 ## 1 - IDENTIFICAÇÃO
+
 Identidade Visual do Projeto
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/IDENTIDADE-VISUAL
+
 
 Redes Sociais do Projeto
 
@@ -49,6 +52,7 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%
 
 
 ## Storyboard
+https://docs.google.com/document/d/1FvsqWmYhRpIuscLyTkYgx9NKu5ET2xmYP8lAn9U5Yck/edit?usp=sharing
 
 ## UI Desing (guia de estilo)
 

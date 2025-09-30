@@ -30,7 +30,7 @@ Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione
 ### Principais entregas
 
 ### Criterios de aceite
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/_new
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/CRIT%C3%89RIOS-DE-ACEITE
 
 
 ### Matriz de risco
@@ -70,15 +70,6 @@ criar interfaces e links entre as telas
 
 ### e) Licença de uso e distribuiçao.
 
-Lira
-Gem personalizado
-Essa é uma decisão estratégica muito importante para o seu projeto!
-
-A Licença MIT, que discutimos, não atende a esse requisito, pois ela é extremamente permissiva e permite o uso comercial irrestrito.
-
-Para que seu projeto seja open source, mas proíba o uso comercial sem permissão expressa (ou seja, sem a aquisição de uma licença específica), você precisa de uma licença com cláusulas restritivas.
-
-A licença open source que se alinha perfeitamente com a sua necessidade é a:
 
 🌟 Licença Creative Commons — Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)
 

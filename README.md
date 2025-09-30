@@ -33,12 +33,7 @@ Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione
 
 ### Matriz de risco
 
-| ID | Risco (Positivo/Negativo) | Descrição Risco (Projeto, Técnico, de Negócio) | Impacto | Resposta |
-| :---: | :---: | :--- | :---: | :--- |
-| **R01** | Negativo | Risco de **Projeto**: Dificuldade em agendar entrevistas de validação com pequenos comerciantes devido à falta de tempo. | Alto | Redefinir a metodologia de coleta: trocar entrevistas presenciais longas por pesquisas digitais curtas (formulários) e *quick polls* em grupos de bairro. |
-| **R02** | Negativo | Risco **Técnico**: Alguma API ou ferramenta exceder o limite de uso gratuito durante a prototipagem. | Médio | Estudar alternativas e implementar cache de dados para reduzir o número de chamadas, minimizando custos. |
-| **R03** | | | | |
-| **R04** | | | | |
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MATRIZ-DE-RISCO
 
 # 3 - Design do Software
 

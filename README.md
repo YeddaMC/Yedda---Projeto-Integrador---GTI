@@ -31,6 +31,7 @@ Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione
 ### Descriçao do produto
 
 ### Principais entregas
+Entrega 1 - 01/10/2025 - https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/ENTREGA-1-%E2%80%90-TEMPLATE-1-%E2%80%90-01-10-2025
 
 ### Criterios de aceite
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/CRIT%C3%89RIOS-DE-ACEITE

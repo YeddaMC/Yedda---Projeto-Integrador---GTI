@@ -46,7 +46,8 @@ Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione
 
 ## Personas e mapa de empatia
 
-PERSONA https://github.com/YeddaMC/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/_new
+PERSONA 
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%90-Maria-(costureira-do-bairro)
 
 
 

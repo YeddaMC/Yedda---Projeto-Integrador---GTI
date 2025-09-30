@@ -30,6 +30,8 @@ Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione
 ### Principais entregas
 
 ### Criterios de aceite
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/_new
+
 
 ### Matriz de risco
 

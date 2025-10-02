@@ -11,7 +11,7 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/IDENTIDADE-VISU
 
 Redes Sociais do Projeto
 
-Equipe
+
 Yedda Maria Carvalahais
 
 Data de criação do projeto : Setembro/2025

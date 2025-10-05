@@ -60,7 +60,15 @@ https://docs.google.com/document/d/1FvsqWmYhRpIuscLyTkYgx9NKu5ET2xmYP8lAn9U5Yck/
 
 ## UI Desing (guia de estilo)
 
-## Prototipação do MVP (quant ux)
+## Prototipação do MVP 
+
+### Estudo do fluxo das telas
+
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Estudo-do-Prot%C3%B3tipo
+
+### wireframe inicial
+
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/wireframes
 
 roteiro de teste baseado nos criterios de aceite
 

@@ -68,6 +68,7 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Estudo-do-Prot%
 
 ### wireframe inicial
 
+
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/wireframes
 
 roteiro de teste baseado nos criterios de aceite
@@ -76,8 +77,15 @@ criar interfaces e links entre as telas
 
 ### PROTOTIPO
 
+FIGMA 
+
+<img width="270" height="270" alt="image" src="https://github.com/user-attachments/assets/9f63f017-8ad9-4758-9c47-be5610c610c7" />
+
+
 https://www.figma.com/make/uytUHDlEtuIt0P29Wk3lkC/Interactive-Prototype-Design?node-id=0-1&p=f&t=1u7uRkjX7qxGMbPt-0&fullscreen=1
 
+
+GITHUB PAGES
 
 
 https://yeddamc.github.io/ACHOU-prototipo/

@@ -76,6 +76,10 @@ criar interfaces e links entre as telas
 
 ### PROTOTIPO
 
+https://www.figma.com/make/uytUHDlEtuIt0P29Wk3lkC/Interactive-Prototype-Design?node-id=0-1&p=f&t=1u7uRkjX7qxGMbPt-0&fullscreen=1
+
+
+
 https://yeddamc.github.io/ACHOU-prototipo/
 
 

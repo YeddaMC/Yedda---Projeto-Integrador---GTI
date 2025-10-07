@@ -223,6 +223,7 @@ Documentação das atividades de extensão.
 
 ### 10 Plano de Marketing
 
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Plano-de-Marketing
 
 
 

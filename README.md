@@ -8,6 +8,59 @@ Repositorio criado para registrar o desenvolvimento do projeto integrador
 
 <img width="173" height="168" alt="ACHOU_LOGO" src="https://github.com/user-attachments/assets/dee0335e-b6b1-498d-a1ec-5e09df1d70a5" />
 
+## Sumário 
+
+### [1 - IDENTIFICAÇÃO](#1---identificação)
+
+### [2 - CONCEPÇÃO](#2---concepção)
+- [Descrição da visão geral do projeto](#descrição-da-visao-geral-do-projeto)
+- [Objetivo do projeto](#objetivo-do-projeto)
+- [Escopo do produto](#escopo-do-produto)
+- [Descrição do produto](#descrição-do-produto)
+- [Principais entregas](#principais-entregas)
+- [Critérios de aceite](#criterios-de-aceite)
+- [Matriz de risco](#matriz-de-risco)
+
+### [3 - DESIGN DO SOFTWARE](#3---design-do-software)
+- [Design centrado no usuário](#design-centrado-no-usuario)
+- [Personas e mapa de empatia](#personas-e-mapa-de-empatia)
+- [Storyboard](#storyboard)
+- [UI Desing (guia de estilo)](#ui-desing-guia-de-estilo)
+- [Prototipação do MVP](#prototipação-do-mvp)
+    - [Estudo do fluxo das telas](#estudo-do-fluxo-das-telas)
+    - [Wireframe inicial](#wireframe-inicial)
+    - [PROTOTIPO](#prototipo)
+
+### [4 - DESENVOLVIMENTO](#4---desenvolvimento)
+- [a) Processo de software (kanban...)](#a-processo-de-software-kanban)
+- [b) Recursos utilizados (tecnologias, ferramentas de apoio, linguagens, equipam, rede)](#b-recursos-utilizados-tecnologiasferramentas-de-apoio-linguagensequipam-rede)
+- [c) Resultados esperados](#c-resultados-esperados)
+- [d) Instruções para download e execução](#d-instruçoes-para-download-e-execução)
+- [e) Licença de uso e distribuição.](#e-licença-de-uso-e-distribuiçao)
+
+### [4\* ESTRATÉGIA DE MARKETING](#4-estrategia-de-marketing)
+
+### [5\* GESTÃO DO PROJETO (ARQUIVOS)](#5-gestão-do-projeto-arquivos)
+- [a) contexto sequenciador mvp e incrementos](#a-contexto-sequenciador-mvp-e-incrementos)
+- [b) detalhamento de atividades](#b-detalhamneto-de-atividades)
+- [c) cronograma mvp e incrementos](#c-cronograma-mvp-e-incrementos)
+
+### [6\* MÉTRICAS DE MONITORAÇÃO E ACOMPANHAMENTO](#6-métricas-de-monitoração-e-acompanhamento)
+
+### [7\* RELATÓRIO DE ENCERRAMENTO E LIÇÕES APRENDIDAS](#7-relatório-de-encerramento-e-lições-aprendidas)
+- [a) Relatório Técnico](#a-relatório-técnico)
+- [b) Plano de negócios](#b-plano-de-negócios)
+- [c) Artigo](#c-artigo)
+- [d) Extras](#d-extras)
+
+### [9\* PASTA DE EXTENSÃO](#9-pasta-de-extensão)
+- [Documentação das atividades de extensão.](#documentacao-das-atividades-de-extensao)
+
+### [10 PLANO DE MARKETING](#10-plano-de-marketing)
+
+
+
+
 ## 1 - IDENTIFICAÇÃO
 
 Identidade Visual do Projeto

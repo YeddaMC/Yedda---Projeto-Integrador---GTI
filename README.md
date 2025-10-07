@@ -20,7 +20,7 @@ Data de criação do projeto : Setembro/2025
 
 ### Descrição da visão geral do projeto :
 
-Este projeto visa a criação e desenvolvimento de uma aplicação com design centrado no usuário que atenda às necessidades de consumo e serviços em um contexto hiperlocal. O foco é na experiência fluida, propondo facilitar a conexão entre pequenos comerciantes e os moradores do seu entorno imediato. O objetivo é contribuir para a vitalidade econômica da região e apoiar a adoção de um modelo urbano mais sustentável e acessível, alinhado aos princípios da Cidade de 15 Minutos, como meio para aumentar a visibilidade e a eficiência desses negócios, promovendo o desenvolvimento local, a sustentabilidade e a conveniência para a comunidade.
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Descri%C3%A7%C3%A3o-da-vis%C3%A3o-geral-do-projeto
 
 ### Objetivo do projeto
 

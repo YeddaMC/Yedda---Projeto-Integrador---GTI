@@ -74,6 +74,12 @@ roteiro de teste baseado nos criterios de aceite
 
 criar interfaces e links entre as telas
 
+### PROTOTIPO
+
+https://yeddamc.github.io/ACHOU-prototipo/
+
+
+
 ## 4 - Desenvolvimento
 
 ### a) Processo de software (kanban...)

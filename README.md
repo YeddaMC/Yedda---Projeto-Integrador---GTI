@@ -23,6 +23,7 @@ Repositorio criado para registrar o desenvolvimento do projeto integrador
 
 ### [3 - DESIGN DO SOFTWARE](#3---design-do-software)
 - [Design centrado no usuário](#design-centrado-no-usuario)
+- [Fluxo do Formulário de Pesquisa](#Fluxo-do-Formulário-de-Pesquisa)
 - [Personas e mapa de empatia](#personas-e-mapa-de-empatia)
 - [Storyboard](#storyboard)
 - [UI Desing (guia de estilo)](#ui-desing-guia-de-estilo)
@@ -105,6 +106,10 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MATRIZ-DE-RISCO
 # 3 - Design do Software
 
 ## Design centrado no usuario
+
+## Fluxo do Formulário de Pesquisa
+
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Fluxo-do-Formul%C3%A1rio-de-Pesquisa
 
 ## Personas e mapa de empatia
 

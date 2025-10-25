@@ -57,7 +57,10 @@ Repositorio criado para registrar o desenvolvimento do projeto integrador
 ### [9\* PASTA DE EXTENSÃO](#9-pasta-de-extensão)
 - [Documentação das atividades de extensão.](#documentacao-das-atividades-de-extensao)
 
-### [10 PLANO DE MARKETING](#10-plano-de-marketing)
+### [10 SUMÁRIO: Análise PESTEL e Plano de Ação SWOT](#10-Analise-PESTEL-/-Plano-de-Ação-SWOT)
+
+
+### [11 PLANO DE MARKETING](#11-plano-de-marketing)
 
 
 
@@ -226,7 +229,11 @@ link landing page
 
 Documentação das atividades de extensão.
 
-### 10 Plano de Marketing
+### 10 Analise PESTEL e Plano de Ação SWOT
+
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/An%C3%A1lise-PESTEL-e-Plano-de-A%C3%A7%C3%A3o-SWOT
+
+### 11 Plano de Marketing
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Plano-de-Marketing
 

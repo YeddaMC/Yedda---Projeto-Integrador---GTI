@@ -12,6 +12,23 @@ Yedda Maria Carvalhais
 📁  ENTREGAS
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
+📁 ENTREGAS SPRINT 5 - Portabilidade RN Web e Publicação Cloudflare
+
+[TUTORIAL DEPLOY COM ACTIONS](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/SPRINT-5-_-Guia-de-Deploy:-Expo-Web---Cloudflare-Pages-via-GitHub-Actions)
+
+## 🌐 
+
+Este projeto foi concebido originalmente como um aplicativo mobile em **React Native** e desnvolvido para o sistema Android. Para esta entrega, realizamos a adaptação e portabilidade dos componentes nativos para o ambiente de navegadores utilizando **React Native Web**, garantindo que a aplicação funcione de forma fluida tanto no celular seja ele Android ou IOS quanto no computador.
+
+* **Versão Web Publicada:** 
+🔗 [ACHOU-WEB](https://achou-web.pages.dev)
+
+
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+
+
 
 📁  ENTREGA APS 2 _ PLANEJAMENTO DE EXTENSÃO _ SCITEC
 

@@ -14,6 +14,7 @@ Yedda Maria Carvalhais
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 📁 ENTREGAS SPRINT 5 - Portabilidade RN Web e Publicação Cloudflare. Versionamento 2.3
 
+
 [Relatório](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/5_-RELAT%C3%93RIO-SPRINT-5)
 
 

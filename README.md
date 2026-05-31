@@ -48,9 +48,6 @@ Este projeto foi concebido originalmente como um aplicativo mobile em **React Na
 
 SPRINT 4 - 16 DE ABRIL DE 2026  À 30  DE ABRIL DE 2026 
 
-OBS. (ENTREGA FORA DA DATA PREVISTA - REGIME DOMICILIAR - ATESTADO MÉDICO)
-
-
 
 
 

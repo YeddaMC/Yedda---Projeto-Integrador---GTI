@@ -12,7 +12,9 @@ Yedda Maria Carvalhais
 📁  ENTREGAS
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
-📁 ENTREGAS SPRINT 5 - Portabilidade RN Web e Publicação Cloudflare
+📁 ENTREGAS SPRINT 5 - Portabilidade RN Web e Publicação Cloudflare. Versionamento 2.3
+
+[Versão 2.3](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/5_Vers%C3%A3o-2.3-%E2%80%90-trade-off-sprint-5-%E2%80%90-cronograma)
 
 [TUTORIAL DEPLOY COM ACTIONS](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/SPRINT-5-_-Guia-de-Deploy:-Expo-Web---Cloudflare-Pages-via-GitHub-Actions)
 

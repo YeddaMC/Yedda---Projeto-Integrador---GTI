@@ -24,13 +24,15 @@ Yedda Maria Carvalhais
 
 [TUTORIAL DEPLOY COM ACTIONS](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/SPRINT-5-_-Guia-de-Deploy:-Expo-Web---Cloudflare-Pages-via-GitHub-Actions)
 
+* **Versão Web Publicada:** 
+🔗 [ACHOU-WEB](https://achou-web.pages.dev)
+
+
 
 ## 🌐 
 
 Este projeto foi concebido originalmente como um aplicativo mobile em **React Native** e desnvolvido para o sistema Android. Para esta entrega, realizamos a adaptação e portabilidade dos componentes nativos para o ambiente de navegadores utilizando **React Native Web**, garantindo que a aplicação funcione de forma fluida tanto no celular seja ele Android ou IOS quanto no computador.
 
-* **Versão Web Publicada:** 
-🔗 [ACHOU-WEB](https://achou-web.pages.dev)
 
 
 

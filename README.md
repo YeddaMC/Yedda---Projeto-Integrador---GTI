@@ -49,9 +49,10 @@ Este projeto foi concebido originalmente como um aplicativo mobile em **React Na
 SPRINT 4 - 16 DE ABRIL DE 2026  À 30  DE ABRIL DE 2026 
 
 
-
-
 [REVIEW](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/4_REVIEW-SPRINT_4)
+
+
+[Telas Admin](https://drive.google.com/file/d/1tHm91lyA8yrZJ0oO_VkqEDMTzoHzyfsx/view?usp=sharing)
 
 [GRAVAÇÃO DE TELA ](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/GRAVA%C3%87%C3%83O-TELA-%E2%80%90-TESTE-USU%C3%81RIO-E-ADMIN)
 

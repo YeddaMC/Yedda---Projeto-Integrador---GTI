@@ -12,6 +12,20 @@ Yedda Maria Carvalhais
 📁  ENTREGAS
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+📁 ENTREGAS SPRINT 6 
+
+### SPRINT 6: Suprimida (Fusão Organizacional)
+* **Período:** Absorvido pela extensão de tempo concedida às Sprints 4 e  5.
+* **Justificativa:** Suprimida para realinhamento do Triângulo de Gestão sem comprometer o núcleo técnico do MVP.
+  Marketing, Redes Sociais e Monitoramento de Métricas - Sprint 8 foi removida do escopo atual do Projeto Interdisciplinar II absorvendo o impacto custo/tempo pelo ajuste de escopo. Essa Sprint provou ser o componente ideal para se deslocar por não possuir dependência técnica com o núcleo (core business) do software.
+* Suas features de Marketing e dados migraram para o ecossistema de Projeto III aonde realmente serão necessárias ferramentas como analytics, conversão e mapas de calor.
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+
 📁 ENTREGAS SPRINT 5 - Portabilidade RN Web e Publicação Cloudflare. Versionamento 2.3
 
 [Relatório de Desempenho](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/Relat%C3%B3rio-de-Desempenho:-ACHOU!--Sprint-5)

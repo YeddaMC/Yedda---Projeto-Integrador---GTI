@@ -44,7 +44,7 @@ Yedda Maria Carvalhais
 [TUTORIAL DEPLOY COM ACTIONS](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/SPRINT-5-_-Guia-de-Deploy:-Expo-Web---Cloudflare-Pages-via-GitHub-Actions)
 
 * **Versão Web Publicada:** 
-🔗 [ACHOU-WEB](https://achou-web.pages.dev)
+🔗 [ACHOU-WEB](https://achou--web.pages.dev)
 
 
 

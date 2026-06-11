@@ -15,7 +15,7 @@ Yedda Maria Carvalhais
 
 [Relatório de Abertura](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/8_-Relat%C3%B3rio-de-Abertura-Sprint-8)
 
-[kanban][(](https://github.com/users/YeddaMC/projects/11/views/1)
+[kanban](https://github.com/users/YeddaMC/projects/11/views/1)
 
 RELATÓRIO FINAL
 

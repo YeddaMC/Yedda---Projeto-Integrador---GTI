@@ -16,6 +16,15 @@ Yedda Maria Carvalhais
 
 [Relatório de Abertura - Backlog da Sprint_7](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/7_-Relat%C3%B3rio-de-abertura-SPRINT-7)
 
+[kanban](https://github.com/users/YeddaMC/projects/10)
+
+[Relatório de Encerramento](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/7-Relat%C3%B3rio-de-Encerramento-de-Sprint-e-Resultados-de-Testes-%E2%80%93-SPRINT-7)
+
+[Imagens](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/7_-IMAGENS-SPRINT-7)
+
+[Review](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/7_-Review-Sprint-7)
+
+[Retrospectiva](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/7_-Retrospectiva-Sprint-7)
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 

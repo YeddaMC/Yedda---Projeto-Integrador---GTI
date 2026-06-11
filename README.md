@@ -10,9 +10,22 @@ Mary Ana Carvalhais Carneiro
 Yedda Maria Carvalhais
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 📁  ENTREGAS
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+📁 ENTREGAS SPRINT 8  _  11 DE JUNHO A 25 DE JUNHO
+
+[Relatório de Abertura](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/8_-Relat%C3%B3rio-de-Abertura-Sprint-8)
+
+[kanban][(](https://github.com/users/YeddaMC/projects/11/views/1))
+
+RELATÓRIO FINAL
+
+VIDEO
+
+DEFESA
+
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
-📁 ENTREGAS SPRINT 7 
+📁 ENTREGAS SPRINT 7 - 28 DE MAIO A 11 DE JUNHO
 
 [Relatório de Abertura - Backlog da Sprint_7](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/7_-Relat%C3%B3rio-de-abertura-SPRINT-7)
 

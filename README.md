@@ -22,6 +22,8 @@ ACHOU! Multiplataforma
 
 Escaneie o QR Code para acessar o MVP
 
+ou acesse pelo link 🔗 [ACHOU--WEB](https://achou--web.pages.dev).
+
 Site publicado na nuvem através da Cloudflare Pages. 
 
 Reutilização de código e backend unificado para uma experiência leve no celular ou notebook.

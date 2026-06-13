@@ -1,6 +1,9 @@
 &copy; 2025 
+
 MARY ANA CARVALHAIS CARNEIRO. 
+
 YEDDA MARIA CARVALHAIS. 
+
 Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
 
 # Projeto Interdisciplinar 2 - GTI 5 - IFPR

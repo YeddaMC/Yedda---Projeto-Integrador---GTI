@@ -1,4 +1,7 @@
-&copy; 2025 YEDDA MARIA CARVALHAIS. Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
+&copy; 2025 
+MARY ANA CARVALHAIS CARNEIRO. 
+YEDDA MARIA CARVALHAIS. 
+Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
 
 # Projeto Interdisciplinar 2 - GTI 5 - IFPR
 Repositorio criado para registrar o desenvolvimento do projeto interdisciplinar 2.

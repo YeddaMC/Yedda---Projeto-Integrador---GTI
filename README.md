@@ -17,6 +17,22 @@ Yedda Maria Carvalhais
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 📁  ENTREGAS
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+ACHOU! Multiplataforma
+
+Escaneie o QR Code para acessar o MVP
+
+Site publicado na nuvem através da Cloudflare Pages. 
+
+Reutilização de código e backend unificado para uma experiência leve no celular ou notebook.
+
+<img width="150" height="150" alt="qrcode_achou--web pages dev" src="https://github.com/user-attachments/assets/c256699b-ae64-4982-8fef-a38aaed24d42" />
+
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+
+
 📁 ENTREGAS SPRINT 8  _  11 DE JUNHO A 25 DE JUNHO
 
 [Relatório de Abertura - Backlog da Sprint 8](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/8_-Relat%C3%B3rio-de-Abertura-Sprint-8)

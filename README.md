@@ -1,21 +1,24 @@
-&copy; 2025 
+<table border="0">
+  <tr>
+    <td valign="top">
+      <img width="173" height="168" alt="ACHOU_LOGO" src="https://github.com/user-attachments/assets/dee0335e-b6b1-498d-a1ec-5e09df1d70a5" />
+    </td>
+    <td valign="top" style="padding-left: 20px;">
+      Projeto Interdisciplinar 2_GTI5_IFPR_Campus Pinhais
+      <br><br>
+      <strong>EQUIPE:</strong><br>
+      Mary Ana Carvalhais Carneiro<br>
+      Yedda Maria Carvalhais
+      <br><br>
+      &copy; 2025 MARY ANA CARVALHAIS CARNEIRO. YEDDA MARIA CARVALHAIS. Licenciado sob <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt" target="_blank">CC BY-NC-SA 4.0</a>
+    </td>
+  </tr>
+</table>
 
-MARY ANA CARVALHAIS CARNEIRO. 
 
-YEDDA MARIA CARVALHAIS. 
 
-Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
-
-# Projeto Interdisciplinar 2 - GTI 5 - IFPR
-Repositorio criado para registrar o desenvolvimento do projeto interdisciplinar 2.
-
-EQUIPE : 
-
-Mary Ana Carvalhais Carneiro
-
-Yedda Maria Carvalhais
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
-📁  ENTREGAS
+📁  ENTREGAS 2026.1
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
 ACHOU! Multiplataforma
@@ -209,26 +212,22 @@ Abaixo estão os links para os artefatos e documentos gerados durante o ciclo de
 **Total de Horas:** 14.5h
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+📁  ENTREGAS 2025.2  Projeto Interdisciplinar I
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+
 # ACHOU! 
 ## Plataforma digital georreferenciada voltada a economia de proximidade.
 
 
-## 1. Identificação
-* **Identidade Visual:** [Logotipo e paleta de cores]
+## 1. Identificação DO Projeto
+
 <img width="173" height="168" alt="ACHOU_LOGO" src="https://github.com/user-attachments/assets/dee0335e-b6b1-498d-a1ec-5e09df1d70a5" />
 
-* **Redes Sociais:** [Links de divulgação]
-  
-* **Organização da Equipe:**
-*
-*   * **Membro A:** Yedda Maria Carvalhais.
-    * **Membro B:** Mary Ana Carvalhais Carneiro.
-      
-* **Comunicação:** Reuniões presenciais para alinhamento e GitHub Projects para atribuição de tarefas e registros. Frequência conforme o andamento.
-* **Data de Criação:** 23/02/2026
 
 ---
-
 ## 2. Concepção
 * **Visão Geral:**
 

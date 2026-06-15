@@ -48,7 +48,7 @@ RELATÓRIO FINAL
 
 VIDEO
 
-[DEFESA](https://gamma.app/docs/ACHOU--jbb8vkr9kzlfuiq?mode=doc)
+[DEFESA](https://achou--g5mtnms.gamma.site/)
 
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">

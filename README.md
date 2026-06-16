@@ -29,7 +29,7 @@ ou acesse pelo link 🔗 [ACHOU--WEB](https://achou--web.pages.dev).
 
 Site publicado na nuvem através da Cloudflare Pages. 
 
-Reutilização de código e backend unificado para uma experiência leve no celular ou notebook.
+Frontend e backend unificados para uma experiência leve em qualquer dispositivo.
 
 <img width="150" height="150" alt="qrcode_achou--web pages dev" src="https://github.com/user-attachments/assets/c256699b-ae64-4982-8fef-a38aaed24d42" />
 

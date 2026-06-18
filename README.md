@@ -21,6 +21,16 @@
 📁  ENTREGAS 2026.1
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
+[DEFESA](https://gamma.app/docs/ACHOU--jbb8vkr9kzlfuiq?mode=present#card-xu9ghx3bdiq42y4)
+
+[Defesa PDF](https://drive.google.com/file/d/1g3yGKO0q24xbCShq91nwmB6r7Vq06DhO/view?usp=sharing)
+
+[Defesa pptx](https://docs.google.com/presentation/d/12n4cw5AULPMnTEEinVCGrSE5msy9mBEO/edit?usp=sharing&ouid=104271530414606897574&rtpof=true&sd=true)
+
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+
 ACHOU! Multiplataforma
 
 Escaneie o QR Code para acessar o MVP
@@ -82,6 +92,8 @@ VIDEO
 
 📁 ENTREGAS SPRINT 5 - Portabilidade RN Web e Publicação Cloudflare. Versionamento 2.3
 
+[VIDEO SPRINT 5](https://drive.google.com/file/d/1BFZl_hiEP7bJlw0OV_o96fI1LhQQSb1o/view?usp=sharing)
+
 [Relatório de Desempenho](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/Relat%C3%B3rio-de-Desempenho:-ACHOU!--Sprint-5)
 
 
@@ -120,6 +132,8 @@ Este projeto foi concebido originalmente como um aplicativo mobile em **React Na
 
 SPRINT 4 - 16 DE ABRIL DE 2026  À 30  DE ABRIL DE 2026 
 
+[VIDEO SPRINT 4](https://drive.google.com/file/d/10jWR2CvfNPQ3o5aw-FeFqCIz0N5YDkQj/view?usp=sharing)
+
 
 [REVIEW](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/4_REVIEW-SPRINT_4)
 
@@ -153,6 +167,8 @@ SPRINT 3 - 02 DE ABRIL DE 2026  À 16 DE ABRIL DE 2026
 
 📁 ENTREGAS SPRINT 2: T4, T6_(DETALHES, FORMULÁRIO DE ANÚNCIO) CRUD DE ANÚNCIOS, INTEGRAÇÃO CLOUDINARY E GEOLOCALIZAÇÃO (VIACEP/NOMINATIM).
 
+[VIDEO SPRINT 2](https://drive.google.com/file/d/1ykWk6yhYimAkjqtZNNKZBy7VJl4ASRwj/view?usp=sharing)
+
 [RELATÓRIO DE ABERTURA SPRINT 2](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/2_-Relat%C3%B3rio-de-Abertura-Sprint-2)
 
 [versão 2.2](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/2_-S2_-versionamento-2.2-%E2%80%90-ajuste-de-sprints-e-remodelagem-do-cronograma-%E2%80%90-build-web)
@@ -168,7 +184,16 @@ SPRINT 3 - 02 DE ABRIL DE 2026  À 16 DE ABRIL DE 2026
 
 📁 ENTREGAS SPRINT 1: T1,T2,T3,T5_(INICIAL,CADASTRO, LOGIN, GESTÃO DE PERFIL) TELAS, NAVEGAÇÃO, PERSITÊNCIA DE DADOS.
 
+
+[VIDEO SPRINT 1](https://drive.google.com/file/d/1C2xiBSaXBte7Y97-J4ZDfmQxQMG12C_t/view?usp=sharing)
+
+
+
+
 APS 01 - Modelo conceitual e lógico dos dados , TRADE OFF, VERSIONAMNETO
+
+
+
  1 [Relatório de Abertura Sprint 1](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/Backlog-da-Sprint-1)
  
  2 [Relatório de Fechamento Sprint 1](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/1_-RELAT%C3%93RIO-SPRINT-1--%E2%80%90-inicio-06-de-mar%C3%A7o--conclus%C3%A3o--19--de-mar%C3%A7o)

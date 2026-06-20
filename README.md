@@ -21,11 +21,7 @@
 📁  ENTREGAS 2026.1
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
-[DEFESA](https://gamma.app/docs/ACHOU--jbb8vkr9kzlfuiq?mode=present#card-xu9ghx3bdiq42y4)
 
-[Defesa PDF](https://drive.google.com/file/d/1g3yGKO0q24xbCShq91nwmB6r7Vq06DhO/view?usp=sharing)
-
-[Defesa pptx](https://docs.google.com/presentation/d/12n4cw5AULPMnTEEinVCGrSE5msy9mBEO/edit?usp=sharing&ouid=104271530414606897574&rtpof=true&sd=true)
 
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
@@ -53,6 +49,20 @@ Frontend e backend unificados para uma experiência leve em qualquer dispositivo
 [Relatório de Abertura - Backlog da Sprint 8](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/8_-Relat%C3%B3rio-de-Abertura-Sprint-8)
 
 [kanban](https://github.com/users/YeddaMC/projects/11/views/1)
+
+
+[Defesa PDF](https://drive.google.com/file/d/1g3yGKO0q24xbCShq91nwmB6r7Vq06DhO/view?usp=sharing)
+
+[Defesa pptx](https://docs.google.com/presentation/d/12n4cw5AULPMnTEEinVCGrSE5msy9mBEO/edit?usp=sharing&ouid=104271530414606897574&rtpof=true&sd=true)
+
+[VÍDEO_CADASTRO E LOGIN](https://drive.google.com/file/d/1C2xiBSaXBte7Y97-J4ZDfmQxQMG12C_t/view?t=2.368)
+
+[VÍDEO_ANUNCIAR](https://drive.google.com/file/d/1ykWk6yhYimAkjqtZNNKZBy7VJl4ASRwj/view?t=10.448)
+
+[VÍDEO_GOVERNANÇA E MODERAÇÃO](https://drive.google.com/file/d/10jWR2CvfNPQ3o5aw-FeFqCIz0N5YDkQj/view)
+
+[VÍDEO_BUIL E DEPLOY_ACTIONS-GITHUB](https://drive.google.com/file/d/1BFZl_hiEP7bJlw0OV_o96fI1LhQQSb1o/view)
+
 
 RELATÓRIO FINAL
 

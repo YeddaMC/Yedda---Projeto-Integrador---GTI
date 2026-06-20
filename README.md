@@ -61,7 +61,7 @@ Frontend e backend unificados para uma experiência leve em qualquer dispositivo
 
 [VÍDEO_GOVERNANÇA E MODERAÇÃO](https://drive.google.com/file/d/10jWR2CvfNPQ3o5aw-FeFqCIz0N5YDkQj/view)
 
-[VÍDEO_BUIL E DEPLOY_ACTIONS-GITHUB](https://drive.google.com/file/d/1BFZl_hiEP7bJlw0OV_o96fI1LhQQSb1o/view)
+[VÍDEO_BUILD E DEPLOY_ACTIONS-GITHUB](https://drive.google.com/file/d/1BFZl_hiEP7bJlw0OV_o96fI1LhQQSb1o/view)
 
 
 RELATÓRIO FINAL

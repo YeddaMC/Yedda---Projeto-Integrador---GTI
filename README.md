@@ -48,6 +48,11 @@ Frontend e backend unificados para uma experiência leve em qualquer dispositivo
 
 [Relatório de Abertura - Backlog da Sprint 8](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/8_-Relat%C3%B3rio-de-Abertura-Sprint-8)
 
+[Relatório de Encerramento da Sprint](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/8-Relat%C3%B3rio-de-encerramento-da-Sprint-8)
+
+[RELATÓRIO FINAL - pdf](https://drive.google.com/file/d/1V-XPGMsWXtaNIzBNHTqK4xajdcU_m51j/view?usp=sharing)
+
+
 [kanban](https://github.com/users/YeddaMC/projects/11/views/1)
 
 
@@ -64,9 +69,8 @@ Frontend e backend unificados para uma experiência leve em qualquer dispositivo
 [VÍDEO_BUILD E DEPLOY_ACTIONS-GITHUB](https://drive.google.com/file/d/1BFZl_hiEP7bJlw0OV_o96fI1LhQQSb1o/view)
 
 
-RELATÓRIO FINAL
 
-VIDEO
+
 
 [DEFESA](https://achou--g5mtnms.gamma.site/)
 
